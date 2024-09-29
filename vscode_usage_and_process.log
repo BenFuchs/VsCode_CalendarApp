@@ -1,0 +1,107 @@
+2024-09-27 11:30:01,455 - VSCode opened at 2024-09-27 11:30:01.455187
+2024-09-27 11:33:39,525 - Tracking closed applications stopped.
+2024-09-27 11:36:59,925 - VSCode opened at 2024-09-27 11:36:59.925732
+2024-09-27 11:37:40,114 - VSCode closed at 2024-09-27 11:37:40.114161, Total time open: 0:00:40.188429
+2024-09-27 11:37:40,126 - Making request: POST https://oauth2.googleapis.com/token
+2024-09-27 11:37:40,411 - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-09-27 11:37:40,990 - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-09-27 11:37:40,999 - file_cache is only supported with oauth2client<4.0.0
+2024-09-27 11:37:41,010 - URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+2024-09-27 11:37:42,218 - Event created: https://www.google.com/calendar/event?eid=Y2M3YTF2a3M3a2g0dWQxbDloMmUwY2VrcGcgYmVuYXlhaGZAbQ
+2024-09-27 11:38:01,022 - Tracking closed applications stopped.
+2024-09-27 11:46:13,763 - VSCode opened at 2024-09-27 11:46:13.763079
+2024-09-27 11:49:34,708 - VSCode closed at 2024-09-27 11:49:34.708578, Total time open: 0:03:20.945499
+2024-09-27 11:49:34,715 - file_cache is only supported with oauth2client<4.0.0
+2024-09-27 11:49:34,720 - URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+2024-09-27 11:49:36,160 - Event created: https://www.google.com/calendar/event?eid=aWNicXA0cDhwdWloMDh2Nm8wYmgxcDQwZzQgYmVuYXlhaGZAbQ
+2024-09-27 11:50:56,317 - Tracking closed applications stopped.
+2024-09-27 12:02:06,708 - VSCode opened at 2024-09-27 12:02:06.708649
+2024-09-27 12:02:21,787 - VSCode closed at 2024-09-27 12:02:21.787209, Total time open: 0:00:15.078560
+2024-09-27 12:02:21,796 - file_cache is only supported with oauth2client<4.0.0
+2024-09-27 12:02:21,801 - URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+2024-09-27 12:02:22,428 - Event created: https://www.google.com/calendar/event?eid=ZGNsbGl1aGhrc282OWhpOWthdDRvNmg3ZW8gYmVuYXlhaGZAbQ
+2024-09-27 12:02:25,818 - Tracking closed applications stopped.
+2024-09-27 12:20:05,062 - VSCode opened at 2024-09-27 12:20:05.062096
+2024-09-27 12:21:10,373 - VSCode closed at 2024-09-27 12:21:10.373534, Total time open: 0:01:05.311438
+2024-09-27 12:27:06,909 - VSCode opened at 2024-09-27 12:27:06.908375
+2024-09-27 12:28:17,245 - VSCode closed at 2024-09-27 12:28:17.245260, Total time open: 0:01:10.336885
+2024-09-27 12:28:17,252 - file_cache is only supported with oauth2client<4.0.0
+2024-09-27 12:28:17,261 - URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+2024-09-27 12:28:17,262 - Making request: POST https://oauth2.googleapis.com/token
+2024-09-27 12:28:18,313 - Event created: https://www.google.com/calendar/event?eid=OHJpbWkzbHJ0Y21sNTg4OG01cHU4bWQxYW8gYmVuYXlhaGZAbQ
+2024-09-27 12:28:28,707 - Tracking closed applications stopped.
+2024-09-27 13:54:28,166 - VSCode opened at 2024-09-27 13:54:28.166596
+2024-09-27 13:56:16,706 - VSCode opened at 2024-09-27 13:56:16.706689
+2024-09-27 13:56:26,749 - VSCode closed at 2024-09-27 13:56:26.749519, Total time open: 0:00:10.042830
+2024-09-27 13:56:26,756 - file_cache is only supported with oauth2client<4.0.0
+2024-09-27 13:56:26,764 - URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+2024-09-27 13:56:26,764 - Making request: POST https://oauth2.googleapis.com/token
+2024-09-27 13:56:27,087 - Failed to create event: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+2024-09-27 13:56:30,190 - Tracking closed applications stopped.
+2024-09-27 14:06:07,619 - VSCode opened at 2024-09-27 14:06:07.618892
+2024-09-27 14:06:17,661 - VSCode closed at 2024-09-27 14:06:17.660407, Total time open: 0:00:10.041515
+2024-09-27 14:08:08,269 - VSCode opened at 2024-09-27 14:08:08.269149
+2024-09-27 14:08:18,318 - VSCode closed at 2024-09-27 14:08:18.318410, Total time open: 0:00:10.049261
+2024-09-27 14:08:18,320 - Error loading token.json: Authorized user info was not in the expected format, missing fields refresh_token.
+2024-09-27 14:08:18,322 - file_cache is only supported with oauth2client<4.0.0
+2024-09-27 14:08:18,328 - URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+2024-09-27 14:08:18,328 - Making request: POST https://oauth2.googleapis.com/token
+2024-09-27 14:08:18,693 - Failed to create event: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+2024-09-27 14:09:00,259 - Tracking closed applications stopped.
+2024-09-27 14:10:12,703 - VSCode opened at 2024-09-27 14:10:12.703761
+2024-09-27 14:10:22,752 - VSCode closed at 2024-09-27 14:10:22.751992, Total time open: 0:00:10.048231
+2024-09-27 14:10:22,756 - file_cache is only supported with oauth2client<4.0.0
+2024-09-27 14:10:22,764 - URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+2024-09-27 14:10:22,764 - Making request: POST https://oauth2.googleapis.com/token
+2024-09-27 14:10:22,966 - Failed to create event: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+2024-09-27 14:10:25,832 - Tracking closed applications stopped.
+2024-09-27 14:13:14,192 - VSCode opened at 2024-09-27 14:13:14.192867
+2024-09-27 14:15:08,014 - Tracking closed applications stopped.
+2024-09-27 14:15:10,126 - VSCode opened at 2024-09-27 14:15:10.126011
+2024-09-27 14:15:22,696 - Tracking closed applications stopped.
+2024-09-27 14:20:25,384 - VSCode opened at 2024-09-27 14:20:25.383854
+2024-09-27 14:20:35,399 - VSCode closed at 2024-09-27 14:20:35.399545, Total time open: 0:00:10.015691
+2024-09-27 14:23:54,690 - VSCode opened at 2024-09-27 14:23:54.690079
+2024-09-27 14:24:04,732 - VSCode closed at 2024-09-27 14:24:04.732415, Total time open: 0:00:10.042336
+2024-09-27 14:24:04,739 - Generated new state zIwEpqYLrTh2p1t34ypLLeFD3np8Mf.
+2024-09-27 14:24:13,201 - "GET /?state=zIwEpqYLrTh2p1t34ypLLeFD3np8Mf&code=4/0AQlEd8yWmNRApw3gMZuqQIiHKiPfj30PxTTY_sMr3L-Vw1eH-84K99kk-hZyeAX-GE7G_Q&scope=https://www.googleapis.com/auth/calendar HTTP/1.1" 200 65
+2024-09-27 14:24:13,201 - Encoding `client_id` "829802198336-8q3d4h9uf97drq8v0ub6am178i29qbtr.apps.googleusercontent.com" with `client_secret` as Basic auth credentials.
+2024-09-27 14:24:13,202 - Requesting url https://oauth2.googleapis.com/token using method POST.
+2024-09-27 14:24:13,202 - Supplying headers {'Accept': 'application/json', 'Content-Type': 'application/x-www-form-urlencoded'} and data {'grant_type': 'authorization_code', 'code': '4/0AQlEd8yWmNRApw3gMZuqQIiHKiPfj30PxTTY_sMr3L-Vw1eH-84K99kk-hZyeAX-GE7G_Q', 'redirect_uri': 'http://localhost:55008/'}
+2024-09-27 14:24:13,202 - Passing through key word arguments {'timeout': None, 'auth': <requests.auth.HTTPBasicAuth object at 0x1047a42b0>, 'verify': None, 'proxies': None, 'cert': None}.
+2024-09-27 14:24:13,331 - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-09-27 14:24:13,656 - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-09-27 14:24:13,657 - Request to fetch token completed with status 200.
+2024-09-27 14:24:13,658 - Request url was https://oauth2.googleapis.com/token
+2024-09-27 14:24:13,658 - Request headers were {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'application/json', 'Connection': 'keep-alive', 'Content-Type': 'application/x-www-form-urlencoded', 'Content-Length': '157', 'Authorization': 'Basic ODI5ODAyMTk4MzM2LThxM2Q0aDl1Zjk3ZHJxOHYwdWI2YW0xNzhpMjlxYnRyLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tOkdPQ1NQWC02V3JIZV9QZHZ3S3RpbGlla3pqSXVHa0dVcm9S'}
+2024-09-27 14:24:13,658 - Request body was grant_type=authorization_code&code=4%2F0AQlEd8yWmNRApw3gMZuqQIiHKiPfj30PxTTY_sMr3L-Vw1eH-84K99kk-hZyeAX-GE7G_Q&redirect_uri=http%3A%2F%2Flocalhost%3A55008%2F
+2024-09-27 14:24:13,658 - Response headers were {'Cache-Control': 'no-cache, no-store, max-age=0, must-revalidate', 'Date': 'Fri, 27 Sep 2024 11:24:13 GMT', 'Pragma': 'no-cache', 'Expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Vary': 'Origin, X-Origin, Referer', 'Content-Encoding': 'gzip', 'Server': 'scaffolding on HTTPServer2', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'X-Content-Type-Options': 'nosniff', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'Transfer-Encoding': 'chunked'} and content {
+  "access_token": "ya29.a0AcM612zMXXA0E2fpiz11lE8jQM3lE6z00v9aPLD3OCPwRahhKzQ9-vgbWOFgE3Cf2k5vygiK5o6LrIf0-fWVB6zsFHFl6kb7a0oyRln57l0RKYSKTsB8x_zppHNFGOJsNAWIywOdPz4r_fXwYISJQN62vg18Y6YZNisJFL_kaCgYKAewSARISFQHGX2Mil4AwnYxdv0vcw65w7Q7FBA0175",
+  "expires_in": 3599,
+  "refresh_token": "1//03QWiLS_c8Ew_CgYIARAAGAMSNwF-L9IrfNDTw9ptqN2rtBZFKyWHX_XCU7GO5hzc_01yOWsBsu59FEDJBI543G8SMDhO1WRrKwA",
+  "scope": "https://www.googleapis.com/auth/calendar",
+  "token_type": "Bearer"
+}.
+2024-09-27 14:24:13,658 - Invoking 0 token response hooks.
+2024-09-27 14:24:13,659 - Obtained token {'access_token': 'ya29.a0AcM612zMXXA0E2fpiz11lE8jQM3lE6z00v9aPLD3OCPwRahhKzQ9-vgbWOFgE3Cf2k5vygiK5o6LrIf0-fWVB6zsFHFl6kb7a0oyRln57l0RKYSKTsB8x_zppHNFGOJsNAWIywOdPz4r_fXwYISJQN62vg18Y6YZNisJFL_kaCgYKAewSARISFQHGX2Mil4AwnYxdv0vcw65w7Q7FBA0175', 'expires_in': 3599, 'refresh_token': '1//03QWiLS_c8Ew_CgYIARAAGAMSNwF-L9IrfNDTw9ptqN2rtBZFKyWHX_XCU7GO5hzc_01yOWsBsu59FEDJBI543G8SMDhO1WRrKwA', 'scope': ['https://www.googleapis.com/auth/calendar'], 'token_type': 'Bearer', 'expires_at': 1727439852.6591868}.
+2024-09-27 14:24:13,667 - file_cache is only supported with oauth2client<4.0.0
+2024-09-27 14:24:13,678 - URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+2024-09-27 14:24:14,419 - Event created: https://www.google.com/calendar/event?eid=bmM2czNqajJwdDNtMTZsaGVvcjNoNTh2MGsgYmVuYXlhaGZAbQ
+2024-09-27 14:24:43,741 - Tracking closed applications stopped.
+2024-09-27 14:24:56,161 - VSCode opened at 2024-09-27 14:24:56.160716
+2024-09-27 14:25:11,233 - VSCode closed at 2024-09-27 14:25:11.232759, Total time open: 0:00:15.072043
+2024-09-27 14:25:11,241 - file_cache is only supported with oauth2client<4.0.0
+2024-09-27 14:25:11,246 - URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+2024-09-27 14:25:11,871 - Event created: https://www.google.com/calendar/event?eid=NTV0MXVwMnQ0ZmVicWk3OHZzODdjY2JuOTAgYmVuYXlhaGZAbQ
+2024-09-27 14:26:37,336 - VSCode opened at 2024-09-27 14:26:37.336462
+2024-09-27 14:26:42,360 - VSCode closed at 2024-09-27 14:26:42.360354, Total time open: 0:00:05.023892
+2024-09-27 14:26:42,368 - file_cache is only supported with oauth2client<4.0.0
+2024-09-27 14:26:42,377 - URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+2024-09-27 14:26:42,802 - Event created: https://www.google.com/calendar/event?eid=MzhqM2dndGowdGE5MjhsODlpbmJjbDhoZG8gYmVuYXlhaGZAbQ
+2024-09-27 14:26:59,922 - Tracking closed applications stopped.
+2024-09-27 14:27:21,624 - VSCode opened at 2024-09-27 14:27:21.623978
+2024-09-27 14:27:51,753 - VSCode closed at 2024-09-27 14:27:51.752806, Total time open: 0:00:30.128828
+2024-09-27 14:27:51,760 - file_cache is only supported with oauth2client<4.0.0
+2024-09-27 14:27:51,766 - URL being requested: POST https://www.googleapis.com/calendar/v3/calendars/primary/events?alt=json
+2024-09-27 14:27:52,540 - Event created: https://www.google.com/calendar/event?eid=MGhmcWM3OGVkbmIwMWNtcG8zcTVoOWtoNzAgYmVuYXlhaGZAbQ
+2024-09-27 14:27:52,963 - Tracking closed applications stopped.
